@@ -1,6 +1,7 @@
 {
   "version": "0.0.1",
   "dependencies": {
+    "@aws-cdk/aws-ec2": "^1.94.1",
     "@serverless-stack/cli": "0.10.4",
     "@serverless-stack/resources": "0.10.4"
   }
