@@ -1,8 +1,8 @@
 {
   "version": "0.0.1",
   "dependencies": {
-    "@aws-cdk/aws-ec2": "^1.103.0",
-    "@serverless-stack/cli": "0.10.4",
-    "@serverless-stack/resources": "0.10.4"
+    "@aws-cdk/core": "1.98.0",
+    "@serverless-stack/cli": "0.18.0",
+    "@serverless-stack/resources": "0.18.0"
   }
 }
